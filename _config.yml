@@ -1,0 +1,27 @@
+# Site Information
+title: Carole Nozinhle Moloi
+description: Aspiring Computer Scientist | Environmental Researcher | Media & Youth Leader
+url: https://Carole-Moloi.github.io
+baseurl: ""
+
+# Author Information
+author:
+  name: Carole Nozinhle Moloi
+  email: mloyicz@gmail.com
+  avatar: /assets/Images/Profile.jpg # Replace with your profile image path
+  social:
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/carole-moloi/
+    - title: GitHub
+      url: https://github.com/your-username
+
+# Theme Settings
+theme: minimal-mistakes-jekyll
+logo: /assets/Images/banner.webp # Replace with your banner image path
+permalink: pretty
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
